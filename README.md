@@ -13,4 +13,4 @@
 
 **Find me 找到我**
 
-<a href="https://github.com/myysophia"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white" /></a> <a href="mailto:myysophia@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/myysophia"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white" /></a> <a href="https://x.com/ninesun14"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> <a href="mailto:myysophia@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat&logo=gmail&logoColor=white" /></a>
