@@ -3,8 +3,8 @@
 • 🧑‍💻 Full-stack developer, DevOps & Cloud Native expert, Infrastructure as Code practitioner.  
 🧑‍💻 全栈开发者，DevOps 和云原生专家，基础设施即代码实践者。
 
-• 😊 Building cloud-native platforms with K8s, service mesh & observability  
-😊 构建基于 K8s、服务网格和可观测性的云原生平台
+• 😊 Building OpsAgent, OSS Manager & cloud-native platforms with K8s ecosystem  
+😊 正在开发 OpsAgent、OSS Manager 和基于 K8s 生态的云原生平台
 
 • 📧 You can reach me via email john.mr.wx@gmail.com  
 您可以通过电子邮件 john.mr.wx@gmail.com 与我联系
