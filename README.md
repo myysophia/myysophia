@@ -7,7 +7,7 @@
 😊 正在开发 OpsAgent、OSS Manager 和基于 K8s 生态的云原生平台
 
 • 🚀 Passionate about Golang backend development, microservices architecture & distributed systems  
-🚀 热衷于 Golang 后端开发、微服务架构和分布式系统
+🚀 热衷于 Golang/Python 后端开发、微服务架构和分布式系统
 
 • 📧 You can reach me via email john.mr.wx@gmail.com  
 您可以通过电子邮件 john.mr.wx@gmail.com 与我联系
